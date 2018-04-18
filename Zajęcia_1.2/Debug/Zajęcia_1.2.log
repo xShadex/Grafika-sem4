@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (Zajęcia_1.2.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  Program_3.cpp
+c:\c++ programy\grafika_sem4\zajęcia_1\zajęcia_1.2\program_3.cpp(4): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+c:\c++ programy\grafika_sem4\zajęcia_1\zajęcia_1.2\program_3.cpp(62): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+c:\c++ programy\grafika_sem4\zajęcia_1\zajęcia_1.2\program_3.cpp(63): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  Zajęcia_1.2.vcxproj -> C:\C++ Programy\Grafika_Sem4\Zajęcia_1\Debug\Zajęcia_1.3.exe
